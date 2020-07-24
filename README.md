@@ -9,6 +9,7 @@
 5) Webpack
 
 Интерфейс приложения:
+
 ![Image alt](https://github.com/svetlanashibaeva/AlmostTwitter/blob/master/docs/Screenshot_1.png)
 
 
