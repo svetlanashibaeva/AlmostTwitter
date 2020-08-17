@@ -12,4 +12,8 @@
 
 ![Image alt](https://github.com/svetlanashibaeva/AlmostTwitter/blob/master/docs/Screenshot_1.png)
 
+## Посмотреть демо-версию
+
+ [Demo](https://almosttwitter.netlify.app/)
+
 
